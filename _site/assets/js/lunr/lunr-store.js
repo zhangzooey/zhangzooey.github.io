@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/hci/update/HCI-Conference-List/",
         "teaser": null
+      },{
+        "title": "Autobiographie avec trous Zuoyi",
+        "excerpt":"Autobiographie avec trous Zuoyi Zhang Je m’appelle Zuoyi Zhang, j’ai 26 ans et j’habite à Winnipeg au Manitoba, Canada. Je suis né en Chine. Je suis venu ici en 2017. Quand j’étais jeune, je rêvais de devenir scientifique. Quand j’ai fini le secondaire, j’ai étudié le génie logiciel. Comme travail,...","categories": ["française"],
+        "tags": [],
+        "url": "http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/",
+        "teaser": null
       }]

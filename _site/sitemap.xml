@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/project/</loc>
-<lastmod>2020-04-06T22:45:09-05:00</lastmod>
+<lastmod>2020-04-10T22:51:19-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll/update/welcome-to-my-blog/</loc>
@@ -15,6 +15,10 @@
 <url>
 <loc>http://localhost:4000/hci/update/HCI-Conference-List/</loc>
 <lastmod>2020-04-06T21:15:55-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/</loc>
+<lastmod>2020-04-10T21:15:55-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
