@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-13T15:11:46-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zooey Zhang’s personal website</title><subtitle>My own space, mainly blog.</subtitle><author><name>Zooey Zhang</name></author><entry><title type="html">Autobiographie avec trous Zuoyi</title><link href="http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/" rel="alternate" type="text/html" title="Autobiographie avec trous Zuoyi" /><published>2020-04-10T21:15:55-05:00</published><updated>2020-04-10T21:15:55-05:00</updated><id>http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi</id><content type="html" xml:base="http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/">&lt;p&gt;Autobiographie avec trous Zuoyi Zhang&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-16T11:40:38-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zooey Zhang’s personal website</title><subtitle>My own space, mainly blog.</subtitle><author><name>Zooey Zhang</name></author><entry><title type="html">Autobiographie avec trous Zuoyi</title><link href="http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/" rel="alternate" type="text/html" title="Autobiographie avec trous Zuoyi" /><published>2020-04-10T21:15:55-05:00</published><updated>2020-04-10T21:15:55-05:00</updated><id>http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi</id><content type="html" xml:base="http://localhost:4000/fran%C3%A7aise/Autobiographie-avec-trous-Zuoyi/">&lt;p&gt;Autobiographie avec trous Zuoyi Zhang&lt;/p&gt;
 
 &lt;p&gt;Je m’appelle Zuoyi Zhang, j’ai 26 ans et j’habite à Winnipeg au Manitoba, Canada. Je suis né en Chine. Je suis venu ici en 2017.&lt;/p&gt;
 
@@ -91,10 +91,34 @@
       &lt;td&gt;17&lt;/td&gt;
       &lt;td&gt;27&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AH&lt;/td&gt;
+      &lt;td&gt;Augmented Human international conference&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ISS&lt;/td&gt;
+      &lt;td&gt;ACM International Conference on Interactive Surfaces and Spaces(previous ITS)&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ITS&lt;/td&gt;
+      &lt;td&gt;ACM International Conference on Interactive Tabletops and Surfaces&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;Reference:
 The collection and h-index are following &lt;a href=&quot;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;vq=eng_humancomputerinteraction&quot;&gt;google scholar.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Updated April 13th 2020.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">2020 International Conference on HCI, Visualization, and Healthcare.</summary></entry><entry><title type="html">Day Zero!</title><link href="http://localhost:4000/blog/update/my-first-blog-post/" rel="alternate" type="text/html" title="Day Zero!" /><published>2020-04-04T21:15:55-05:00</published><updated>2020-04-04T21:15:55-05:00</updated><id>http://localhost:4000/blog/update/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/update/my-first-blog-post/">&lt;p&gt;This is my first blog.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">This is my first blog.</summary></entry><entry><title type="html">Welcome to My Blog!</title><link href="http://localhost:4000/jekyll/update/welcome-to-my-blog/" rel="alternate" type="text/html" title="Welcome to My Blog!" /><published>2020-03-17T21:15:55-05:00</published><updated>2020-03-17T21:15:55-05:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-my-blog/">&lt;p&gt;Finally build my new blog here. This time I use the jekyll.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">Finally build my new blog here. This time I use the jekyll.</summary></entry></feed>
+&lt;p&gt;Updated June 16 2020, First versiont at April 13th 2020.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">2020 International Conference on HCI, Visualization, and Healthcare.</summary></entry><entry><title type="html">Day Zero!</title><link href="http://localhost:4000/blog/update/my-first-blog-post/" rel="alternate" type="text/html" title="Day Zero!" /><published>2020-04-04T21:15:55-05:00</published><updated>2020-04-04T21:15:55-05:00</updated><id>http://localhost:4000/blog/update/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/update/my-first-blog-post/">&lt;p&gt;This is my first blog.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">This is my first blog.</summary></entry><entry><title type="html">Welcome to My Blog!</title><link href="http://localhost:4000/jekyll/update/welcome-to-my-blog/" rel="alternate" type="text/html" title="Welcome to My Blog!" /><published>2020-03-17T21:15:55-05:00</published><updated>2020-03-17T21:15:55-05:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-my-blog/">&lt;p&gt;Finally build my new blog here. This time I use the jekyll.&lt;/p&gt;</content><author><name>Zooey Zhang</name></author><summary type="html">Finally build my new blog here. This time I use the jekyll.</summary></entry></feed>
