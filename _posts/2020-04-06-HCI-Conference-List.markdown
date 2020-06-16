@@ -14,6 +14,9 @@ categories: HCI update
 |CSCW | [CSCW2020](https://cscw.acm.org/)| June 1 2020 ,Oct 15, Jan 15|- | 60 | 82|
 |Ubicomp | [Ubicomp2020](http://ubicomp.org/ubicomp2020/)| May 15 2020,Aug 15, Nov 15,Feb 15|- | 57 | 84|
 |UIST | [UIST2020](https://uist.acm.org/uist2020/)| April 20 2020| May 6 2020 | 46 | 69|
+|DIS |Conference on Designing Interactive Systems | -| - | 33 | 46|
+|ICMI |International Conference on Multimodal Interfaces (ICMI) | -| - | 33 | 46|
+|Mobile HCI |Mobile HCI | -| - | 28 | 38|
 |AMIA Symposium |AMIA Symposium | -| - | 25 | 38|
 |PacificVis|IEEE Pacific Visualization Symposium | -| - | 21 | 30|
 |PervasiveHealth | [PervasiveHealth2020](http://pervasivehealth.org/)| Jan 19 2020| - | 17 | 27|
