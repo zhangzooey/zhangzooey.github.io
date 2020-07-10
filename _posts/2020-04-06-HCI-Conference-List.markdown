@@ -17,13 +17,25 @@ categories: HCI update
 |DIS |Conference on Designing Interactive Systems | -| - | 33 | 46|
 |ICMI |International Conference on Multimodal Interfaces (ICMI) | -| - | 33 | 46|
 |Mobile HCI |Mobile HCI | -| - | 28 | 38|
+|VR |IEEE Virtual Reality Conference | -| - | 28 | 38|
+|IUI|International Conference on Intelligent User Interfaces (IUI)| -| - | 27 | 36|
+|ASSETS |International ACM Conference on Assistive Technologies (Assets) | -| - | 26 | 31|
 |AMIA Symposium |AMIA Symposium | -| - | 25 | 38|
+|UMAP |International Conference on User Modeling, Adaptation and Personalization (UMAP) | -| - | 25 | 33|
+|TEI |International Conference on Tangible, Embedded, and Embodied Interaction | -| - | 25 | 35|
 |PacificVis|IEEE Pacific Visualization Symposium | -| - | 21 | 30|
 |PervasiveHealth | [PervasiveHealth2020](http://pervasivehealth.org/)| Jan 19 2020| - | 17 | 27|
 |AH|Augmented Human international conference | -| - | 17 | 30|
+|VRST|ACM Symposium on Virtual Reality Software and Technology | -| - | 18 | 27|
 |ISS|ACM International Conference on Interactive Surfaces and Spaces(previous ITS)| -| - | 11 | 18|
 |ITS|ACM International Conference on Interactive Tabletops and Surfaces| -| - | 18 | 23|
-
+|BCB|ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB)| -| - | 19 | 27|
+|SUI|Symposium on Spatial User Interaction| -| - | 17 | 25|
+|ICHI|IEEE INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS| -| - | 16 | 22|
+|I3D|Symposium on Interactive 3D Graphics (SI3D)| -| - | 15 | 20|
+|HEALTHINF|International Conference on Health Informatics (HEALTHINF)| -| - | 14 | 16|
+|BHI|IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)| -| - | 14 | 16|
+|GI|Graphics Interface Conference| -| - | 12 | 16|
 Reference:
 The collection and h-index are following [google scholar.](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction)
 
