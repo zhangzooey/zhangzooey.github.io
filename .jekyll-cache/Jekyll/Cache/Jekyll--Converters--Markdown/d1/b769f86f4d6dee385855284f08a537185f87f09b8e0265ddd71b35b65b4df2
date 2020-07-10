@@ -1,4 +1,4 @@
-I"€
+I"M
 <p>2020 International Conference on HCI, Visualization, and Healthcare.</p>
 
 <table>
@@ -54,57 +54,46 @@
       <td>69</td>
     </tr>
     <tr>
-      <td>AMIA Symposium</td>
-      <td>AMIA Symposium</td>
+      <td>DIS</td>
+      <td>Conference on Designing Interactive Systems</td>
       <td>-</td>
       <td>-</td>
-      <td>25</td>
+      <td>33</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>ICMI</td>
+      <td>International Conference on Multimodal Interfaces (ICMI)</td>
+      <td>-</td>
+      <td>-</td>
+      <td>33</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>Mobile HCI</td>
+      <td>Mobile HCI</td>
+      <td>-</td>
+      <td>-</td>
+      <td>28</td>
       <td>38</td>
     </tr>
     <tr>
-      <td>PacificVis</td>
-      <td>IEEE Pacific Visualization Symposium</td>
+      <td>VR</td>
+      <td>IEEE Virtual Reality Conference</td>
       <td>-</td>
       <td>-</td>
-      <td>21</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>PervasiveHealth</td>
-      <td><a href="http://pervasivehealth.org/">PervasiveHealth2020</a></td>
-      <td>Jan 19 2020</td>
-      <td>-</td>
-      <td>17</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>AH</td>
-      <td>Augmented Human international conference</td>
-      <td>-</td>
-      <td>-</td>
-      <td>17</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>ISS</td>
-      <td>ACM International Conference on Interactive Surfaces and Spaces(previous ITS)</td>
-      <td>-</td>
-      <td>-</td>
-      <td>11</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>ITS</td>
-      <td>ACM International Conference on Interactive Tabletops and Surfaces</td>
-      <td>-</td>
-      <td>-</td>
-      <td>18</td>
-      <td>23</td>
+      <td>28</td>
+      <td>38</td>
     </tr>
   </tbody>
 </table>
 
-<p>Reference:
+<p>|ICHI|IEEE INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS| -| - | 16 | 22|
+|I3D|Symposium on Interactive 3D Graphics (SI3D)| -| - | 15 | 20|
+|HEALTHINF|International Conference on Health Informatics (HEALTHINF)| -| - | 14 | 16|
+|BHI|IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)| -| - | 14 | 16|
+|GI|Graphics Interface Conference| -| - | 12 | 16|
+Reference:
 The collection and h-index are following <a href="https://scholar.google.com/citations?view_op=top_venues&amp;hl=en&amp;vq=eng_humancomputerinteraction">google scholar.</a></p>
 
 <p>Updated June 16 2020, First versiont at April 13th 2020.</p>
